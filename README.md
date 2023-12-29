@@ -57,6 +57,10 @@ Dependencies
 The Firebase Chat Application uses the following major dependencies:
 
 Firebase Realtime Database
+
 Firebase Authentication
+
 Firebase Cloud Functions
+
 CircleImageView (for displaying circular profile images)
+
