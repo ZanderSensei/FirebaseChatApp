@@ -1,3 +1,6 @@
+Firebase Chat Application
+
+
 This Android Studio project is a simple and efficient chat application powered by Firebase. 
 It allows users to engage in real-time text-based conversations in a secure and reliable environment.
 
